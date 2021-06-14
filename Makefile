@@ -1,3 +1,3 @@
 
 compile:
-    gcc main.c -o mandelbrot
+	gcc main.c -o mandelbrot
