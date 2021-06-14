@@ -21,7 +21,6 @@ int main(){
                 count++;
             }
 
-            // if conditions for if it is inside the set
             if(count == maxIter){
                 printf(".");
             } else{
